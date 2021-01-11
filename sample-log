@@ -1,0 +1,10 @@
+{"level":"info","msg":"message0","name":{"first":"first0","last":"last0"},"time":"2021-01-10T18:08:40+09:00"}
+{"level":"info","msg":"message1","name":{"first":"first1","last":"last1"},"time":"2021-01-10T18:08:41+09:00"}
+{"level":"info","msg":"message2","name":{"first":"first2","last":"last2"},"time":"2021-01-10T18:08:42+09:00"}
+{"level":"info","msg":"message3","name":{"first":"first3","last":"last3"},"time":"2021-01-10T18:08:43+09:00"}
+{"level":"info","msg":"message4","name":{"first":"first4","last":"last4"},"time":"2021-01-10T18:08:44+09:00"}
+{"level":"info","msg":"message5","name":{"first":"first5","last":"last5"},"time":"2021-01-10T18:08:45+09:00"}
+{"level":"info","msg":"message6","name":{"first":"first6","last":"last6"},"time":"2021-01-10T18:08:46+09:00"}
+{"level":"info","msg":"message7","name":{"first":"first7","last":"last7"},"time":"2021-01-10T18:08:47+09:00"}
+{"level":"info","msg":"message8","name":{"first":"first8","last":"last8"},"time":"2021-01-10T18:08:48+09:00"}
+{"level":"info","msg":"message9","name":{"first":"first9","last":"last9"},"time":"2021-01-10T18:08:49+09:00"}
